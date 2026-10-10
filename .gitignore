@@ -1,0 +1,9 @@
+# Godot generated cache
+.godot/
+
+# Temporary files
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
